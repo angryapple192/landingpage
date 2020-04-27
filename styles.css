@@ -6,6 +6,9 @@ h1{
 .webbuilder{
 	font-size: 24px;
 	font-weight: bold;
-	font-color: green;
-	background: black;
+}
+
+body{
+	background-color: black;
+	color: green;
 }
